@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"LaTeXing",
+		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
 		"PowerShell",
 		"SCSS"
