@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+<<<<<<< HEAD
 		"Advanced CSV",
 		"Alignment",
 		"All Autocomplete",
@@ -34,5 +35,13 @@
 		"Text Pastry",
 		"Trimmer",
 		"Zeal"
+=======
+		"LaTeXing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"PowerShell",
+		"SCSS"
+>>>>>>> 5cd4c8d4da85ddc345e61cc4398380526fa7728a
 	]
 }

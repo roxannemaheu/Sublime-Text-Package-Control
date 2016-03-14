@@ -16,6 +16,10 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"material_theme_bold_tab": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tree_headings": true,
 	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme.sublime-theme"
 }
