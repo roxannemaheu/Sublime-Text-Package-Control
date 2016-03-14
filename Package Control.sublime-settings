@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Alignment",
+		"All Autocomplete",
+		"Clipboard Manager",
+		"ColorPicker",
+		"Copy Filepath With Line Numbers",
+		"Diffy",
+		"EasyDiff",
+		"Emmet",
+		"Evaluate",
+		"GotoDocumentation",
+		"HexViewer",
+		"Highlight",
+		"Indent and braces",
+		"LuaSmartTips",
+		"Material Theme",
+		"Package Control",
+		"Perforce",
+		"PowerShell",
+		"Predawn",
+		"ShaderLanguages",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-lua",
+		"SublimeLinter-luacheck",
+		"Terminal",
+		"Text Pastry",
+		"Trimmer",
+		"Zeal"
+	]
+}
