@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-<<<<<<< HEAD
 		"Advanced CSV",
 		"Alignment",
 		"All Autocomplete",
@@ -20,12 +19,15 @@
 		"HexViewer",
 		"Highlight",
 		"Indent and braces",
+		"LaTeXing",
 		"LuaSmartTips",
 		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
 		"Perforce",
 		"PowerShell",
 		"Predawn",
+		"SCSS",
 		"ShaderLanguages",
 		"SideBarEnhancements",
 		"SublimeLinter",
@@ -35,13 +37,5 @@
 		"Text Pastry",
 		"Trimmer",
 		"Zeal"
-=======
-		"LaTeXing",
-		"Material Theme",
-		"Material Theme - Appbar",
-		"Package Control",
-		"PowerShell",
-		"SCSS"
->>>>>>> 5cd4c8d4da85ddc345e61cc4398380526fa7728a
 	]
 }
