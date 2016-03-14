@@ -1,5 +1,0 @@
-[
-	{ "keys": ["ctrl+alt+l"], "command": "invertSelection"},
-	{ "keys": ["f8"], "command": "permute_selection", "args": {"operation": "reverse"} },
-	{ "keys": ["ctrl+i"], "command": "indent_and_braces" },
-]
