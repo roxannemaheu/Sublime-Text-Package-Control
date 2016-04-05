@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"ColorPicker",
+		"Emmet",
+		"Gulp",
+		"MarkdownEditing",
+		"Material Theme",
+		"nginx",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-sqlint",
+		"Trimmer"
+	]
+}
